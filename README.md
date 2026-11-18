@@ -1,6 +1,6 @@
 # Magnesium: An Independent Evidence Review and Product Database
 
-A source-linked review of magnesium supplementation — which forms differ, what the
+A source-linked review of magnesium supplementation: which forms differ, what the
 trials actually show, how to dose it, who should avoid it, and what 16 real products
 cost per 400 mg of elemental magnesium. Built as a reproducible repository: every
 quantitative claim traces to a reference, and every table is generated from the CSV
@@ -25,13 +25,13 @@ actually need it.
 | Is glycinate worth the premium? | For **tolerability**, often yes. For absorption, the only direct trial found glycinate equal to oxide overall. | Low–Moderate |
 | Is threonate worth 10–37× more? | **No**, for magnesium replacement. Its cognitive case rests on small, mostly industry-funded trials. | Low |
 | Does it help sleep? | Modestly in some older adults and poor sleepers: about **17 min faster sleep onset** in a pooled analysis of 3 small trials, low certainty. | Low |
-| Does it stop cramps? | **No.** About **0.18 cramps/week** difference — not clinically meaningful. | Moderate |
+| Does it stop cramps? | **No.** About **0.18 cramps/week** difference, not clinically meaningful. | Moderate |
 | Does it prevent migraine? | Modestly, at **600 mg/day trimagnesium dicitrate** (AAN/AHS Level B). Above the supplemental UL. | Moderate |
 | Does it lower blood pressure? | About **−2 mmHg systolic** overall; up to **−7.7 mmHg** in treated hypertensives. Little effect in normotensive people. | Moderate |
 | Does it improve cognition? | **Not established** in healthy adults. Human brain magnesium has never been measured after oral threonate. | Low |
 | Is it safe? | Yes with healthy kidneys at recommended doses. High doses cause diarrhoea; **kidney disease risks dangerous hypermagnesemia**. | High |
 | How much? | **100–200 mg elemental per dose**, once or twice daily; total supplemental intake **≤350 mg/day** unless supervised. | Moderate |
-| What does it cost? | **$0.08–$2.92 per 400 mg** of elemental magnesium — a **37× spread**. | Price snapshot |
+| What does it cost? | **$0.08–$2.92 per 400 mg** of elemental magnesium: a **37× spread**. | Price snapshot |
 
 The detailed argument, caveats and citations are in the
 [full report](report/magnesium-scientific-report.md).
@@ -52,7 +52,7 @@ The detailed argument, caveats and citations are in the
 | [`docs/generated/forms-chemistry.md`](docs/generated/forms-chemistry.md) | Elemental content, molar masses, capsules needed per dose, UL flags. |
 | [`docs/generated/evidence-tables.md`](docs/generated/evidence-tables.md) | 70 graded evidence rows across 13 domains. |
 | [`docs/generated/claims-table.md`](docs/generated/claims-table.md) | 31 common claims adjudicated as supported, partial, unsupported or false. |
-| [`docs/references.md`](docs/references.md) | 56 references with DOI, PMID/PMC or stable URL. |
+| [`docs/references.md`](docs/references.md) | 57 references with DOI, PMID/PMC or stable URL. |
 | [`data/products.csv`](data/products.csv) | Product database (price, elemental dose, servings, certification, ingredients). |
 | [`data/evidence.csv`](data/evidence.csv) | Evidence table with effect sizes, certainty and status. |
 | [`data/claims.csv`](data/claims.csv) | Claim adjudication dataset. |
@@ -144,7 +144,7 @@ change. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 Citation metadata is in [`CITATION.cff`](CITATION.cff).
 
-- **Text and data:** CC BY 4.0 — share and adapt with attribution.
+- **Text and data:** CC BY 4.0: share and adapt with attribution.
 - **Code:** MIT.
 
 See [`NOTICE`](NOTICE) for the full content license and medical disclaimer.

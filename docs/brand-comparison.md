@@ -50,7 +50,7 @@ is the least absorbed, and the most expensive is the least proven.
 oxide per serving, cheap and effective as laxatives. They are poor choices for
 repletion because oxide is only about 4% absorbed, and both exceed the 350 mg
 supplemental UL per serving. Mag-Ox's label suggests two tablets daily, which would
-be 800 mg — more than twice the UL.
+be 800 mg, more than twice the UL.
 
 ### Tier 2: best balance
 
@@ -65,8 +65,8 @@ taurate are fine as magnesium but their specific claims are unproven.
 **NOW Magnesium Malate ($0.51), Natural Vitality CALM ($0.51), Doctor's Best veggie
 caps ($0.79), NOW Magnesium Glycinate ($0.80), Thorne Magnesium Glycinate ($0.96),
 Jarrow Magnesium Taurate ($1.11).** You are paying for format, brand, chelation or
-co-factors. Some of that is worth it — capsules are convenient, Thorne's labelling
-is excellent — but the magnesium itself is not better.
+co-factors. Some of that is worth it: capsules are convenient and Thorne's labelling
+is excellent, but the magnesium itself is not better.
 
 ### Tier 4: poor value
 
@@ -84,8 +84,8 @@ signal: batch-level contaminant and prohibited-substance testing. It does not ma
 the magnesium more effective, and it does not make a $1.73 dose better than a $0.40
 one for a non-athlete.
 
-If certification matters — for doping control, for a compromised immune system, or
-for peace of mind — expect to pay a premium and check the certifier's public listing
+If certification matters, whether for doping control, a compromised immune system or
+peace of mind, expect to pay a premium and check the certifier's public listing
 rather than the label alone.
 
 ## 6. Serving-size traps in this sample

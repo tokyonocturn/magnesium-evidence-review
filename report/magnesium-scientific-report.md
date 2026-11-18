@@ -1,6 +1,6 @@
 # Magnesium Supplementation: An Independent Scientific Review
 
-**Version 1.0 — 18 November 2026**
+**Version 1.0.1, 18 November 2026**
 
 A source-linked review of magnesium forms, absorption, clinical evidence, dosing,
 safety, product quality and cost. Every quantitative claim traces to a reference
@@ -36,7 +36,7 @@ than they are.
 | Does it improve cognition? | Not established in healthy adults. Human brain magnesium has never been measured after oral threonate. | Low |
 | Is it safe? | Yes in healthy kidneys at recommended doses. High doses cause diarrhoea; kidney impairment risks dangerous hypermagnesemia. | High |
 | What should most people take? | 100–200 mg elemental magnesium per dose, once or twice daily, as citrate or bisglycinate, only if intake or risk factors justify it. Total supplemental intake stays at or below 350 mg/day unless supervised. | Moderate |
-| What does it cost? | **$0.08 to $2.92 per 400 mg** of elemental magnesium in this sample — a 37-fold spread for a mineral whose absorbed dose differs far less than that. | Price snapshot |
+| What does it cost? | **$0.08 to $2.92 per 400 mg** of elemental magnesium in this sample: a 37-fold spread for a mineral whose absorbed dose differs far less than that. | Price snapshot |
 
 The detailed argument is in the sections below. The generated
 [evidence tables](../docs/generated/evidence-tables.md) and
@@ -69,7 +69,7 @@ facts, never as evidence of efficacy.
 Very low) and a status (Established, Emerging, Mixed, Unsupported). Certainty is a
 GRADE-style judgement about the strength and consistency of the evidence; status
 describes the state of the claim. A small effect can be established and still be
-clinically unimportant — that distinction drives most of the conclusions here.
+clinically unimportant; that distinction drives most of the conclusions here.
 
 **Prices.** Sixteen products were priced on 18 November 2026 from the brand store
 or a named retailer, excluding tax, shipping, subscription discounts and coupons.
@@ -176,7 +176,7 @@ Two practical consequences:
 Chelation is a chemical structure: a metal ion bound to a ligand, often an amino
 acid. It is not a synonym for "better absorbed". The strongest direct evidence for
 glycinate comes from a small trial in patients with ileal resection, where ²⁶Mg
-absorption was 23.5% from glycinate and 22.8% from oxide overall — identical — and
+absorption was 23.5% from glycinate and 22.8% from oxide overall (identical), and
 better only in the four patients with the worst absorption (23.5% vs 11.8%)
 (R07). That is a real finding for malabsorption, not proof for healthy adults.
 
@@ -192,8 +192,8 @@ Magnesium L-threonate is a salt of magnesium and L-threonic acid, an ascorbate
 metabolite. Animal work shows it raises brain magnesium more than other salts
 (R34). Human trials have not measured brain magnesium; they measure cognitive test
 scores, and those results are inconsistent (section 6.8). A 2 g dose of the
-commercial ingredient supplies about 144 mg of elemental magnesium — roughly a
-third of the RDA — so the product is best understood as a low-dose magnesium
+commercial ingredient supplies about 144 mg of elemental magnesium, roughly a
+third of the RDA, so the product is best understood as a low-dose magnesium
 supplement with a premium price and a cognitive hypothesis attached.
 
 ---
@@ -215,8 +215,7 @@ Three lines of evidence converge:
 - **Urinary recovery.** After a 25 mmol load, urinary magnesium rose by 0.22 mg/mg
   creatinine with citrate and 0.006 with oxide in the first four hours (R04). Oxide
   was only 43% soluble even at simulated peak gastric acidity.
-- **Fractional absorption.** Oxide delivered about 4% of its dose, against 9–11%
-  for chloride, aspartate and lactate (R03).
+- **Fractional absorption.** Oxide delivered about 4% of its dose, against 9–11% for chloride, aspartate and lactate (R03, R09).
 - **Sixty-day supplementation.** At 300 mg/day, citrate produced the highest serum
   magnesium; oxide did not differ from placebo on 24-hour urinary excretion (R05).
 
@@ -293,7 +292,7 @@ placebo group, which inflates apparent benefit.
 
 In replete adults, the picture is different. A 2025 randomised crossover gave
 magnesium chloride and found VO₂max fell from 44.4 to 41.3 mL/kg/min and 30-second
-sprint power from 439 to 415 W — both worse than placebo (R32). A scoping review
+sprint power from 439 to 415 W, both worse than placebo (R32). A scoping review
 concludes that benefits are reported mainly in deficiency states and are
 inconsistent in well-nourished athletes (R55).
 
@@ -306,7 +305,7 @@ for magnesium in well-fed athletes.
 This is the clearest negative finding in the review. The 2020 Cochrane review
 pooled five RCTs in 307 adults, mostly older, with idiopathic cramps. Magnesium
 reduced cramps by 0.18 per week (95% CI −0.84 to 0.49) and changed the percentage
-of cramps from baseline by −9.59% (95% CI −23.14 to 3.97) — both null, with
+of cramps from baseline by −9.59% (95% CI −23.14 to 3.97), both null, with
 moderate certainty (R11). A separate trial of magnesium oxide in 94 community
 adults was stopped early for futility (R14).
 
@@ -360,8 +359,8 @@ weeks. Attack frequency fell 41.6% with magnesium versus 15.8% with placebo in
 weeks 9–12; migraine days and symptomatic drug use also fell. Diarrhoea occurred in
 18.6% and gastric irritation in 4.7% (R19).
 
-A systematic review using the AAN scheme graded the evidence C — possibly
-effective — noting that one of two Class I trials was positive (R20). The AAN/AHS
+A systematic review using the AAN scheme graded the evidence C (possibly
+effective), noting that one of two Class I trials was positive (R20). The AAN/AHS
 give magnesium a Level B recommendation for prevention, and the German guideline
 notes conflicting trial results (R21, R53). Efficacy may depend on the salt: the positive trials used
 trimagnesium dicitrate (R19, R20).
@@ -464,8 +463,8 @@ healthy people (R01).
 
 Serum magnesium is the usual test and a poor one. Less than 1% of body magnesium
 is extracellular, and serum is defended at the expense of tissue stores (R01, R51).
-Other approaches — red-cell magnesium, ionized magnesium, salivary magnesium,
-24-hour urinary magnesium and the magnesium loading test — all have shortcomings,
+Other approaches, including red-cell magnesium, ionized magnesium, salivary
+magnesium, 24-hour urinary magnesium and the magnesium loading test, all have shortcomings,
 and no single method is considered satisfactory (R01, R50).
 
 The practical implication: a normal serum magnesium does not rule out depletion in
@@ -484,7 +483,7 @@ most hospitals and has not been measured in NHANES since 1974 (R01).
 | --- | ---: | ---: | ---: | ---: |
 | 19–30 years | 400 mg | 310 mg | 350 mg | 310 mg |
 | 31–50 years | 420 mg | 320 mg | 360 mg | 320 mg |
-| 51+ years | 420 mg | 320 mg | — | — |
+| 51+ years | 420 mg | 320 mg | n/a | n/a |
 
 These are RDAs for **total** intake from food, water, supplements and medications
 (R01, R02). The tolerable upper intake level for **supplemental and medicinal**
@@ -492,7 +491,7 @@ magnesium is **350 mg/day for adults**; it does not include food magnesium, beca
 healthy kidneys excrete the excess (R01). For children the UL ranges from 65 mg at
 1–3 years to 350 mg at 9–13 years.
 
-The apparent paradox — a UL below the RDA — is explained by the different scopes:
+The apparent paradox of a UL below the RDA is explained by the different scopes:
 the RDA covers all sources, the UL only supplements and drugs.
 
 ### 8.2 Effective doses by indication
@@ -610,7 +609,7 @@ because the form found did not match the label (R46).
 
 ### 10.2 Third-party certification
 
-Certification programmes verify identity, strength and contaminant limits — lead,
+Certification programmes verify identity, strength and contaminant limits: lead,
 arsenic, cadmium, mercury and, for sport programmes, banned substances (R47). They
 do not verify efficacy, and they do not tell you whether the dose is sensible.
 
@@ -623,8 +622,8 @@ do not verify efficacy, and they do not tell you whether the dose is sensible.
   Informed Choice is retail monitoring rather than batch release.
 
 In this sample, 15 of 16 products had no documented certification. That is a
-statement about the sample, not proof that the other products are contaminated —
-most magnesium supplements pass independent testing — but certification is the
+statement about the sample, not proof that the other products are contaminated
+(most magnesium supplements pass independent testing), but certification is the
 only cheap way for a consumer to reduce that uncertainty.
 
 ### 10.3 Contaminants
@@ -686,7 +685,7 @@ including per-product serving arithmetic, are in the
 The ordering is almost the inverse of the marketing hierarchy. Oxide is cheapest
 and worst absorbed; threonate is most expensive and least proven. Citrate sits in
 the middle with the best evidence-to-cost ratio. Glycinate costs roughly twice
-citrate for tolerability, which may be worth it for people with sensitive guts —
+citrate for tolerability, which may be worth it for people with sensitive guts,
 but not for absorption.
 
 ### 11.3 Value is not the same as suitability
@@ -730,7 +729,7 @@ why the mid-priced soluble salts usually win in practice:
 
 - **People with genuinely low intake** who cannot or will not fix it with food
   (nuts, seeds, legumes, whole grains, leafy greens).
-- **People with malabsorption** — Crohn's, coeliac, short bowel, ileal resection —
+- **People with malabsorption** (Crohn's, coeliac, short bowel, ileal resection),
   often needing higher doses and clinical monitoring.
 - **People with type 2 diabetes, alcohol use disorder, or long-term PPI use**, in
   whom losses or absorption problems are documented.
@@ -768,13 +767,13 @@ deficiency, and the body conserves magnesium when intake falls (R01).
 | Sleep | Bisglycinate or citrate in the evening | 200–400 mg | Small evidence base, low risk |
 | Migraine prevention | Trimagnesium dicitrate | 600 mg/day divided, clinician-supervised | Only dose with positive trials and guideline support |
 | Blood pressure | Citrate or oxide | 300–370 mg/day for 8–12 weeks | Small effect; monitor |
-| Cognition | Nothing, or threonate only in a trial | — | Unproven and expensive |
-| Kidney disease | Nothing without a clinician | — | Accumulation risk |
+| Cognition | Nothing, or threonate only in a trial | n/a | Unproven and expensive |
+| Kidney disease | Nothing without a clinician | n/a | Accumulation risk |
 
 ### 12.5 A ten-second label check
 
 1. Find the **elemental magnesium** figure, not the compound weight.
-2. Check the **serving size** — is it one capsule or two tablets?
+2. Check the **serving size**: is it one capsule or two tablets?
 3. Divide the elemental dose by the number of capsules to get mg per capsule.
 4. Compare the **cost per 400 mg**, not the pack price.
 5. Check whether the **form** is named specifically, including hydration if possible.
@@ -800,7 +799,7 @@ deficiency, and the body conserves magnesium when intake falls (R01).
   other forms.
 
 Where this review says "unsupported", it means the claim is not supported by
-controlled human evidence — not that it has been proven false. Where it says
+controlled human evidence, not that it has been proven false. Where it says
 "established", it means the direction is consistent across studies, not that the
 effect is large.
 
@@ -808,7 +807,7 @@ effect is large.
 
 ## 14. References
 
-Fifty-six sources are listed in [the references](../docs/references.md), each with a
+Fifty-seven sources are listed in [the references](../docs/references.md), each with a
 DOI, PMID/PMC identifier or stable URL. The complete evidence record, with effect
 sizes and certainty grades, is in the
 [generated evidence tables](../docs/generated/evidence-tables.md). All thirty-one

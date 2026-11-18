@@ -11,10 +11,10 @@ effect can be established and still be clinically unimportant.
 
 | Question | Outcome | Evidence base | Result | Certainty | Status | Sources |
 | --- | --- | --- | --- | --- | --- | --- |
-| How much magnesium is absorbed from oxide versus soluble salts? | Fractional absorption of a 21 mEq dose | Randomised crossover with urinary recovery; 1 trial; 16 adults | Oxide 4%; chloride, aspartate and lactate 9-11% | Moderate | Established | R03 |
+| How much magnesium is absorbed from oxide versus soluble salts? | Fractional absorption of a 21 mEq dose | Randomised crossover with urinary recovery; 1 trial; 16 adults | Oxide 4%; chloride, aspartate and lactate 9-11% | Moderate | Established | R03, R09 |
 | Does citrate raise urinary magnesium more than oxide? | 4-hour urinary magnesium increment after a 25 mmol load | Controlled absorption study with in vitro solubility; 1 trial | 0.22 vs 0.006 mg/mg creatinine in the first 4 hours | Moderate | Established | R04 |
 | Which form raises serum magnesium most over 60 days? | Serum and 24-hour urinary magnesium | Randomised double-blind placebo-controlled parallel trial; 1 trial; 46 adults | Citrate produced the highest serum magnesium; oxide did not differ from placebo | Moderate | Established | R05 |
-| Is the citrate advantage over oxide clinically important? | 24-hour urinary magnesium after saturation | Randomised crossover; 1 trial | 7.2 vs 6.7 mmol/24 h; difference 13.7 mg | Moderate | Mixed | R06 |
+| Is the citrate advantage over oxide clinically important? | 24-hour urinary magnesium after saturation | Randomised crossover; 1 trial | 7.2 vs 6.7 mmol/24 h; difference 13.7 mg | Moderate | Mixed | R06, R08 |
 | Is glycinate better absorbed than oxide? | 26Mg absorption | Double-blind randomised crossover; 1 trial; 12 patients | 23.5% vs 22.8% overall; 23.5% vs 11.8% in the four worst absorbers | Low | Mixed | R07 |
 | What fraction of dietary magnesium is absorbed? | Fractional absorption | Balance and isotope studies summarised in reviews; Multiple studies | 30-40% of intake | Moderate | Established | R01, R08 |
 | Does a larger dose deliver proportionally more magnesium? | Efficiency of absorption | Balance studies and reviews; Multiple studies | Fractional absorption declines with dose; split doses are absorbed better | Moderate | Established | R08 |
@@ -51,7 +51,7 @@ effect can be established and still be clinically unimportant.
 | --- | --- | --- | --- | --- | --- | --- |
 | Does magnesium prevent idiopathic muscle cramps? | Cramps per week at 4 weeks | Cochrane meta-analysis; 5 RCTs; 307 participants | -0.18 cramps/week (-0.84 to 0.49) | Moderate | Established | R11 |
 | Does magnesium reduce the percentage change in cramps? | Percentage change from baseline | Cochrane meta-analysis; 3 RCTs; 177 participants | -9.59% (-23.14 to 3.97) | Moderate | Established | R11 |
-| Does magnesium help pregnancy-associated cramps? | Cramp frequency | Meta-analysis of RCTs; 4 RCTs; 332 women | WMD -0.47 cramps (-1.14 to 0.20) | Low | Mixed | R12, R13 |
+| Does magnesium help pregnancy-associated cramps? | Cramp frequency | Meta-analysis of RCTs; 4 RCTs; 332 women | WMD -0.47 cramps (-1.14 to 0.20) | Low | Mixed | R12, R13, R57 |
 | Does magnesium oxide prevent nocturnal cramps? | Cramp frequency | Double-blind RCT stopped for futility; 1 trial; 94 participants | No difference from placebo | Moderate | Established | R14 |
 
 ## Exercise recovery and soreness

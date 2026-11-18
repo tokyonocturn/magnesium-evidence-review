@@ -3,6 +3,30 @@
 All notable changes to the datasets, generated tables, and report are recorded here.
 The format follows Keep a Changelog; versions use semantic versioning.
 
+## [1.0.1] - 2026-11-18
+
+### Fixed
+
+- R08 cited a DOI that resolved to an unrelated iron-deficiency paper. Corrected to
+  the DOI and journal of the magnesium absorption review (Current Nutrition and
+  Food Science).
+- R24 named the wrong journal. Corrected to Current Therapeutic Research.
+- R40 cited the wrong DOI and journal. Corrected to the European Journal of
+  Pharmaceutics and Biopharmaceutics record.
+- R41's FDA URL returned 404. Replaced with the archived 2011 safety communication.
+- The pregnancy-cramp pooled estimate was attributed to the Cochrane review and a
+  controlled trial. Added R57, the 2021 meta-analysis that reports it, and
+  re-attributed the evidence and claim rows.
+- Added missing DOIs for R02, R09, R14 and R50.
+- Removed em dashes from all prose and replaced them with commas, colons,
+  parentheses or semicolons as the sentence required.
+
+### Notes
+
+- All 57 references were re-resolved against Crossref, PubMed or Europe PMC. Eleven
+  publisher URLs return 403 to automated clients but their DOIs resolve to the
+  correct records; one DOI-less government page was checked directly.
+
 ## [1.0.0] - 2026-11-18
 
 ### Added

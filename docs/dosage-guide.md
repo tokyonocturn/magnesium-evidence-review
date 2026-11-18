@@ -58,7 +58,7 @@ adequate, stop.
 ### 4.1 General adequacy
 
 - 100–200 mg/day of citrate or bisglycinate.
-- Better: increase dietary intake — pumpkin seeds (156 mg/oz), chia (111 mg/oz),
+- Better: increase dietary intake with pumpkin seeds (156 mg/oz), chia (111 mg/oz),
   almonds (80 mg/oz), spinach (78 mg per half cup), cashews (74 mg/oz), black beans
   (60 mg per half cup), edamame (50 mg per half cup) (R01).
 - A supplement is a top-up, not a substitute for food.

@@ -93,7 +93,7 @@ bias.
   human evidence. This does not mean it has been proven false.
 
 The two axes are deliberately independent. A small effect can be *established* and
-still be clinically unimportant — the cramp result is the clearest example.
+still be clinically unimportant; the cramp result is the clearest example.
 
 ## 6. Claim adjudication
 
@@ -139,7 +139,7 @@ The 400 mg denominator is close to the adult RDA and is a common daily dose. Usi
 
 **Certification.** Recorded only when the brand page or the certifier's public
 listing documents it. Absence is recorded as `None documented`, not as "uncertified"
-in an absolute sense — a product may be certified without saying so on the page
+in an absolute sense: a product may be certified without saying so on the page
 used.
 
 ## 8. Salt chemistry
