@@ -363,9 +363,8 @@ weeks 9–12; migraine days and symptomatic drug use also fell. Diarrhoea occurr
 A systematic review using the AAN scheme graded the evidence C — possibly
 effective — noting that one of two Class I trials was positive (R20). The AAN/AHS
 give magnesium a Level B recommendation for prevention, and the German guideline
-notes conflicting trial results (R21, R53). Efficacy appears to depend on the salt: the positive trials
-used trimagnesium dicitrate, while magnesium aspartate did not separate from
-placebo in at least one trial (R20, R52).
+notes conflicting trial results (R21, R53). Efficacy may depend on the salt: the positive trials used
+trimagnesium dicitrate (R19, R20).
 
 **Interpretation.** Magnesium has a reasonable, modest, guideline-supported role in
 migraine prevention at 600 mg/day, taken in divided doses under supervision. That

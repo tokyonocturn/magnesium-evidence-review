@@ -98,9 +98,8 @@ has the only direct supporting data.
 
 The most concentrated common form and the cheapest per milligram. Poorly soluble,
 poorly absorbed, and the most likely to cause diarrhoea. It is the active ingredient
-in many OTC laxatives and antacids at 400–500 mg per tablet. Several positive
-clinical trials used oxide (sleep in older adults, migraine comparator studies), so
-"useless" is wrong; "poorly absorbed" is right. Best used for constipation or when
+in many OTC laxatives and antacids at 400–500 mg per tablet. Some positive trials used oxide, including the older-adult sleep
+trial (R15), so "useless" is wrong; "poorly absorbed" is right. Best used for constipation or when
 cost is the binding constraint.
 
 ### Magnesium citrate
